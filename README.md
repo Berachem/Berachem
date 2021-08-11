@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berachem (17 y.o)
 - 👀 I’m interested in Gaming, Music and Hang out
-- 🌱 I’m currently learning Python and Web dev (HTML, CSS, JS, PHP)
+- 🌱 I’m currently learning Python (Flask...) and Web dev (HTML, CSS, JS, PHP)
 - 📫 How to reach me : berachem.markria@gmail.com
 
 <!---
