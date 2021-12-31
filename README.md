@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Berachem (17 y.o)
+- 👋 Hi, I’m @Berachem (18 y.o)
 - 👀 I’m interested in Football, Gaming and Hang out
 - 🌱 I’m currently learning Python (Back-end) and C++
 - 📫 How to reach me : berachem.markria@gmail.com
