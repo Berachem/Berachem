@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <a href="https://berachem.dev/" target="_blank" >@Berachem</a> (18 y.o)
-- 💻 Student in Computer Science at Paris-Est, Marne-la-Vallée University *(BUT Informatique en français)*
+- 💻 Student in Computer Science at Paris-Est, Marne-la-Vallée University *(BUT Informatique pour les français)*
 - 👀 I’m interested in Football, Gaming and Hang out
-- 🌱 I’m currently learning Python, Java, WEB (HTML, CSS, JS, PHP), C, Bash...
+- 🌱 I’m currently learning Python, Java, WEB (HTML, CSS, JS, PHP), SQL, C, Bash...
 - 📫 How to reach me : berachem.markria@gmail.com
 
 
