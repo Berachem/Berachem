@@ -24,4 +24,4 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=berachem&" alt="berachem" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berachem&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berachem&layout=compact&theme=light)
