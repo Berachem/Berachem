@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Berachem MARKRIA</h1>
-<h3 align="center">Student in Computer Science at Paris-Est, Marne-la-Vallée University (BUT Informatique pour les français)</h3>
+<h3 align="center">Student in Computer Science at Paris-Est, Marne-la-Vallée University <i> (BUT Informatique pour les français)</i>
+<br>
+  <br>
+  I have done some interesting projects that you can see on my profile. I have been project manager for the design of a Web Site in partnership with 
+  <a href="https://www.unesco.org/fr">Unesco</a> on the Ile de la Cité in Paris 
+  <br>
+  <br>
+  <img src="https://perso-etudiant.u-pem.fr/~berachem.markria/Unesco/img/background.jpg" alt="berachem markria"  width="max" />
+  <br>
+  <br>
+  <a href="https://perso-etudiant.u-pem.fr/~berachem.markria/Unesco/src/index.php?lang=1" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/7205/7205356.png" alt="angular" width="60" height="60"/> </a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /> </p>
 
 
-- 🌱 I’m currently learning **React, NodeJS, Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://berachem.dev](https://berachem.dev)
 
