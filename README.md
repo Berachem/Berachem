@@ -3,13 +3,13 @@
 <br>
   <br>
   I have done some interesting projects that you can see on my profile. I have been project manager for the design of a Web Site in partnership with 
-  <a href="https://www.unesco.org/fr">Unesco</a> on the Ile de la Cité in Paris 
+  <a href="https://www.unesco.org/fr">UNESCO</a> on the Ile de la Cité in Paris 
   <br>
   <br>
-  <img src="https://perso-etudiant.u-pem.fr/~berachem.markria/Unesco/img/background.jpg" alt="berachem markria"  width="max" />
+  <img src="https://traffickingtransformations.org/wp-content/uploads/2021/06/UNESCO_logo_hor_blue.jpg" width="150" >
   <br>
   <br>
-  <a href="https://perso-etudiant.u-pem.fr/~berachem.markria/Unesco/src/index.php?lang=1" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/7205/7205356.png" alt="angular" width="60" height="60"/> </a>
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /> </p>
