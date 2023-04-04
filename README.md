@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berachem MARKRIA</h1>
-<h3 align="center">Student in Computer Science at Paris-Est, Marne-la-Vallée University <i> (BUT Informatique pour les français)</i>
+<h3 align="center">Student in Computer Science at Paris-Est, Marne-la-Vallée University and admitted at ESIEE-Paris
 <br>
   <br>
   I have done some interesting projects that you can see on my profile. I have been project manager for the design of a Web Site in partnership with 
