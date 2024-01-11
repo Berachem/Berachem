@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter,dart,php,java,react,ts,js,c,bash,mysql,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,dart,php,java,react,ts,js,c,cs,bash,mysql,postgresql,tailwind,bootstrap)](https://skillicons.dev)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=berachem&show_icons=true&locale=en" alt="berachem" />
 
