@@ -36,10 +36,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,flutter,dart,php,java,react,ts,js,c,cs,bash,mysql,postgresql,tailwind,bootstrap,unity,matlab,symfony,postman,flask,django)](https://berachem.dev)
 
 <a href="https://berachem.dev/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=berachem&show_icons=true&theme=radical" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=berachem&show_icons=true&theme=radical" />
 </a>
 <a href="https://berachem.dev/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berachem&layout=compact&theme=light&hide=javascript,css,scss,html" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berachem&layout=compact&theme=light&hide=javascript,css,scss,html" />
 </a>
 
 
