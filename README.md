@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Berachem MARKRIA</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /> </p>
+<h1 align="center">Hi 👋, I'm Berachem MARKRIA <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /></h1>
 
 <h3 align="center">
-  Student in Computer Science at ESIEE-Paris (Paris-Est, Marne-la-Vallée University)
+  💼 Lead Software Engineer 
+  <br>
+  👨‍🎓 Student in Computer Science at ESIEE Paris
   <br>
   <br>
-  I have completed over 30+ projects that you can explore on my profile.
+  
   I have been the project manager for the design of a website in partnership with 
-  <a href="https://www.unesco.org/fr">UNESCO</a> on the Ile de la Cité in Paris.
+  🌍 UNESCO on the Ile de la Cité in Paris, IOS and Android Developer for 🏛️ luxury companies and Lead Software Engineer for an ⚡energy company.
   <br>
   <br>
+
   <img src="https://traffickingtransformations.org/wp-content/uploads/2021/06/UNESCO_logo_hor_blue.jpg" width="150" style="border-radius: 10px;">
+  <img src="https://i.postimg.cc/43wMjbdy/image-removebg-preview-5.png" width="175" style="border-radius: 10px;" height="32">
+  <img src="https://i.postimg.cc/gjMtTYk7/21608792-louis-vuitton-logo-louis-vuitton-icone-avec-police-de-caracteres-sur-blanc-et-marron-contex.jpg" width="150" style="border-radius: 10px;" height="35">
   <br>
+  <br>
+  <i> I have completed over 30+ projects🔥that you can explore on my profile. </i>
   <br>
 </h3>
 
@@ -82,6 +88,7 @@
         <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=github" alt="matlab" width="40" height="40"/>
       </p>
     </td>
     <td align="center">
