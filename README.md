@@ -12,9 +12,9 @@
   <br>
   <br>
 
-  <img src="https://traffickingtransformations.org/wp-content/uploads/2021/06/UNESCO_logo_hor_blue.jpg" width="150" style="border-radius: 10px;">
-  <img src="https://i.postimg.cc/43wMjbdy/image-removebg-preview-5.png" width="175" style="border-radius: 10px;" height="32">
-  <img src="https://i.postimg.cc/gjMtTYk7/21608792-louis-vuitton-logo-louis-vuitton-icone-avec-police-de-caracteres-sur-blanc-et-marron-contex.jpg" width="150" style="border-radius: 10px;" height="35">
+  <img src="https://traffickingtransformations.org/wp-content/uploads/2021/06/UNESCO_logo_hor_blue.jpg" width="148" style="border-radius: 10px;" height="34">
+  <img src="http://vwryeac.cluster030.hosting.ovh.net/IG/opendata/assets/ysl.png" width="175" style="border-radius: 10px;" height="33">
+  <img src="http://vwryeac.cluster030.hosting.ovh.net/IG/opendata/assets/louis-vuitton.jpg" width="150" style="border-radius: 10px;" height="34">
   <br>
   <br>
   <i> I have completed over 30+ projects🔥that you can explore on my profile. </i>
