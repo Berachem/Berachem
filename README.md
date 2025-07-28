@@ -94,7 +94,6 @@
         <img src="https://skillicons.dev/icons?i=googlecloud" alt="googlecloud" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
       </p>
     </td>
   
