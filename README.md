@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berachem MARKRIA <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /></h1>
 
 <h3 align="center">
-  💼 Lead Software Engineer 
+  💼 Lead Software Engineer & AI Innovator
   <br>
   👨‍🎓 Student in Computer Science at ESIEE Paris
   <br>
@@ -42,11 +42,12 @@
       <h4>Databases</h4>
     </td>
     <td align="center">
-      <h4>DevOps and Tools</h4>
+      <h4>AI, LLMs & GenAI</h4>
     </td>
     <td align="center">
-      <h4>Design</h4>
+      <h4>DevOps and Tools</h4>
     </td>
+
   </tr>
   <tr>
     <td align="center">
@@ -81,21 +82,24 @@
     </td>
     <td align="center">
       <p>
+        <img src="https://skills-icons.vercel.app/api/icons?i=ollama" alt="ollama" width="40" height="40"/>
+         <img src="https://skills-icons.vercel.app/api/icons?i=langchain" alt="langchain" width="40" height="40"/>
+       <img src="https://skills-icons.vercel.app/api/icons?i=qdrant" alt="qdrant" width="40" height="40"/>
+        <img src="https://skills-icons.vercel.app/api/icons?i=n8n" alt="n8n" width="40" height="40"/>
+      </p>
+    </td>
+    <td align="center">
+      <p>
         <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=github" alt="matlab" width="40" height="40"/>
       </p>
     </td>
-    <td align="center">
-      <p>
-        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-      </p>
-    </td>
+  
   </tr>
 </table>
 
