@@ -91,12 +91,10 @@
     <td align="center">
       <p>
         <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=googlecloud" alt="googlecloud" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=github" alt="matlab" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
       </p>
     </td>
   
