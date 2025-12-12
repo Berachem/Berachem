@@ -13,8 +13,8 @@
   <br>
 
   <img src="https://traffickingtransformations.org/wp-content/uploads/2021/06/UNESCO_logo_hor_blue.jpg" width="148" style="border-radius: 10px;" height="34">
-  <img src="http://vwryeac.cluster030.hosting.ovh.net/IG/opendata/assets/ysl.png" width="175" style="border-radius: 10px;" height="33">
-  <img src="http://vwryeac.cluster030.hosting.ovh.net/IG/opendata/assets/louis-vuitton.jpg" width="150" style="border-radius: 10px;" height="34">
+  <img src="https://www.berachem.dev/assets/ysl-gxv-tItb.png" width="175" style="border-radius: 10px;" height="33">
+  <img src="https://www.berachem.dev/assets/LV-BaNgRifU.jpeg" width="150" style="border-radius: 10px;" height="34">
   <br>
   <br>
   <i> I have completed over 30+ projects🔥that you can explore on my profile. </i>
