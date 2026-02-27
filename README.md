@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berachem MARKRIA <img src="https://komarev.com/ghpvc/?username=berachem&label=Profile%20views&color=0e75b6&style=flat" alt="berachem" /></h1>
 
 <h3 align="center">
-  💼 Lead Software Engineer & AI Innovator
+  💼 IT Project Manager & Software Engineer
   <br>
-  👨‍🎓 Student in Computer Science at ESIEE Paris
+  👨‍🎓 Telecom Paris, ESSEC Business School & ESIEE Paris
   <br>
   <br>
   
